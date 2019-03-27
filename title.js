@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = [ "F", "Fo", "For", "Foru", "Forum", "ForumT", "ForumTe", "ForumTea", "ForumTeam", "ForumTea", "ForumTe", "ForumT", "Forum", "Foru", "For", "Fo", "F"];
+var titleText = [ "*", "/", "N", "|", "O", "2", "Z"];
 
 function loop() {
 
